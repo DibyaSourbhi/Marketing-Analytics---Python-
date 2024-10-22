@@ -1,0 +1,8 @@
+[CUSTOMERS.csv](https://github.com/user-attachments/files/17471310/CUSTOMERS.csv)
+[SELLERS.csv](https://github.com/user-attachments/files/17471307/SELLERS.csv)
+[PRODUCTS.csv](https://github.com/user-attachments/files/17471305/PRODUCTS.csv)
+[ORDERS.csv](https://github.com/user-attachments/files/17471303/ORDERS.csv)
+[ORDER_REVIEW_RATINGS.csv](https://github.com/user-attachments/files/17471301/ORDER_REVIEW_RATINGS.csv)
+[ORDER_PAYMENTS.csv](https://github.com/user-attachments/files/17471299/ORDER_PAYMENTS.csv)
+[ORDER_ITEMS.csv](https://github.com/user-attachments/files/17471296/ORDER_ITEMS.csv)
+[GEO_LOCATION.csv](https://github.com/user-attachments/files/17471295/GEO_LOCATION.csv)
